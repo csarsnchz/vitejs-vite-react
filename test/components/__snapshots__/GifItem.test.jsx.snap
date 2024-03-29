@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en componente <GifItem /> Debe hacer match con la configuración de snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Goku GIF by Dragon Ball Super"
+      src="https://media2.giphy.com/media/irBHYSZxbUifTxTgBL/giphy-downsized-medium.gif?cid=e38884cdh9dao9hezjmv3e31vsmxroboxvywl2qf9b8qwsvf&ep=v1_gifs_search&rid=giphy-downsized-medium.gif&ct=g"
+    />
+    <p>
+      Goku GIF by Dragon Ball Super
+    </p>
+  </div>
+</div>
+`;
